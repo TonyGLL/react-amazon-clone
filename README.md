@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Demo Amazon Clone](https://react--clone-b56bc.web.app/)
+
+**Screenshot 1**
+![screen](screen1.png)
+
+**Screenshot 2**
+![screen](screen2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
